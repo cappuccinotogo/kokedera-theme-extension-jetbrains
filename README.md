@@ -1,28 +1,30 @@
 # Kokedera
 
-*A dark color theme for [JetBrains IDEs](https://www.jetbrains.com), drawn from the quiet green of a moss temple garden.*
+Bring the quiet of a moss-covered temple into your editor. Kokedera offers nine hand-tuned color themes inspired by forest greens, weathered stone, and warm lantern light — seven dark palettes and two light palettes.
 
-> **[kokedera.style](https://kokedera.style)** — visit the website for a full visual walkthrough of the palette, syntax highlighting, and icons.
+> **[kokedera.style](https://kokedera.style)** — walk through the temple, explore its nine palettes, and find the matching file icons.
 
 ---
 
 ## About
 
-**Kokedera** is a meditative dark color theme drawn from the stillness of a moss temple garden. The palette grows from a single source — the patient green of moss, accented by lantern amber, cedar teal, and stone gray.
+Kokedera is a quiet temple among the roots of the World Tree, where moss covers the stone paths and a small golem tends the lanterns.
+
+**Kokedera Theme** brings all nine palettes to [JetBrains IDEs](https://www.jetbrains.com). Choose a different hour, season, or weather in the same place.
 
 ## Variants
 
 | Theme | Mood |
 |---|---|
-| **Kokedera Morning** | Light — washi paper and raked gravel, deep moss ink |
-| **Kokedera Dusk** | The original dark theme — moss greens, weathered stone, soft lantern light |
-| **Kokedera Night** | Near-black high-contrast dark — moonlit moss, bright lanterns |
-| **Kokedera Spring** | Dark with young, yellow-fresh greens and a cherry-blossom accent |
-| **Kokedera Summer** | Dark and lush — deep saturated green after summer rain |
-| **Kokedera Autumn** | Dark and warm — maple red, amber light, fading moss |
-| **Kokedera Winter** | Light and cold — snow grey, pine green, a berry-red accent |
-| **Kokedera Rain** | Dark, cooled toward teal — rain on stone, one warm lantern |
-| **Kokedera Mist** | Dark and quiet — desaturated, low contrast for long sessions |
+| **Kokedera Morning** | Light — warm paper grounds, greens that read like ink |
+| **Kokedera Dusk** | Dark — deep forest greens, weathered stone and soft lantern light |
+| **Kokedera Night** | Dark — near-black grounds, brighter greens and warm lantern contrast |
+| **Kokedera Spring** | Dark — fresh greens and cherry blossom |
+| **Kokedera Summer** | Dark — dense, saturated greens and a teal stream |
+| **Kokedera Autumn** | Dark — rust, amber and ember over dark earth |
+| **Kokedera Winter** | Light — cool pale grounds, steel blue and a quiet red |
+| **Kokedera Rain** | Dark — wet teal, blue-green shadows and reflected lantern warmth |
+| **Kokedera Mist** | Dark — soft, desaturated greens and blue-grey distance |
 
 ## Installation
 

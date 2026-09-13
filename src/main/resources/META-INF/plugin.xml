@@ -5,20 +5,26 @@
 
     <description><![CDATA[
     <h2>Kokedera - Moss Temple Theme</h2>
-    <p>Moss-temple color themes — nine variants across the day, the seasons, and the weather of one garden.</p>
+    <p>Bring the quiet of a moss-covered temple into your editor. Kokedera offers nine
+    hand-tuned color themes inspired by forest greens, weathered stone, and warm
+    lantern light — seven dark palettes and two light palettes.</p>
 
-    <h3>Philosophy</h3>
-    <p>Rooted in restraint — beauty in imperfection, transience, and the incomplete.
-    No color shouts or demands attention. A quiet space where code can breathe.</p>
+    <h3>Nine views of one place</h3>
+    <p>Kokedera is a quiet temple among the roots of the World Tree, where moss covers
+    the stone paths and a small golem tends the lanterns. Choose a different hour,
+    season, or weather in the same place.</p>
 
-    <h3>Color Metaphors</h3>
+    <h3>Palettes</h3>
     <ul>
-        <li><b>Editor background</b> — Deep shade beneath ancient trees</li>
-        <li><b>Keywords</b> — Sunlight catching the brightest moss</li>
-        <li><b>Strings</b> — Warm amber of paper lanterns at dusk</li>
-        <li><b>Comments</b> — Weathered stone inscriptions softened by time</li>
-        <li><b>Types</b> — Dark green cedars standing tall</li>
-        <li><b>Functions</b> — Fresh bamboo swaying in a gentle breeze</li>
+        <li><b>Morning</b> — Light: warm paper grounds, greens that read like ink</li>
+        <li><b>Dusk</b> — Dark: deep forest greens, weathered stone and soft lantern light</li>
+        <li><b>Night</b> — Dark: near-black grounds, brighter greens and warm lantern contrast</li>
+        <li><b>Spring</b> — Dark: fresh greens and cherry blossom</li>
+        <li><b>Summer</b> — Dark: dense, saturated greens and a teal stream</li>
+        <li><b>Autumn</b> — Dark: rust, amber and ember over dark earth</li>
+        <li><b>Winter</b> — Light: cool pale grounds, steel blue and a quiet red</li>
+        <li><b>Rain</b> — Dark: wet teal, blue-green shadows and reflected lantern warmth</li>
+        <li><b>Mist</b> — Dark: soft, desaturated greens and blue-grey distance</li>
     </ul>
     ]]></description>
 
